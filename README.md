@@ -6,3 +6,11 @@
 ## 1) Advanced Data Science System for Regression Calculations
 <img width="1264" height="577" alt="SP3S-AQ2 gas curves" src="https://github.com/user-attachments/assets/1a3d2735-6ed9-4e76-98d6-7a9a7c0e7663" />
 
+## 2) Ppm Analysis of SP3S-AQ2 Gases
+<img width="1264" height="577" alt="SP3S-AQ2 Ppm Analysis" src="https://github.com/user-attachments/assets/a27bfdd9-8ea8-431a-89d7-b7cce97e638b" />
+
+## 3) Slope Estimation in Time-Dependent SP3S-AQ2 Gases
+<img width="1264" height="577" alt="SP3S-AQ2 Gases Slope Estimation" src="https://github.com/user-attachments/assets/915b9656-4344-4ad5-b5c6-c9c260c3c208" />
+
+
+
