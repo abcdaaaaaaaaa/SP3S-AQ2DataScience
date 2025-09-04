@@ -10,7 +10,5 @@
 <img width="1264" height="577" alt="SP3S-AQ2 Ppm Analysis" src="https://github.com/user-attachments/assets/a27bfdd9-8ea8-431a-89d7-b7cce97e638b" />
 
 ## 3) Slope Estimation in Time-Dependent SP3S-AQ2 Gases
-<img width="1264" height="577" alt="SP3S-AQ2 Gases Slope Estimation" src="https://github.com/user-attachments/assets/915b9656-4344-4ad5-b5c6-c9c260c3c208" />
-
-
+<img width="1264" height="577" alt="SP3S-AQ2 Gases Slope Estimation" src="https://github.com/user-attachments/assets/7d72827e-f0e4-4117-a8a5-22fcbbe3bd6d" />
 
