@@ -110,8 +110,7 @@ The first formula is determined according to all points while the second formula
 
 -------------------------
 
-<img width="685" alt="image6" src="https://github.com/user-attachments/assets/fd7d2afb-e857-4d46-8ecd-2ee4aa2e1a56" />
-
+<img width="543" height="63" alt="image6" src="https://github.com/user-attachments/assets/4c7eb93d-3937-49c9-8365-1525d3d22fd4" />
 
 ## Check out all our DataScience libraries under the SpaceData series!
 
