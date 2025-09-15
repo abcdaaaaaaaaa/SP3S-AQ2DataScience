@@ -101,8 +101,7 @@ The first formula is determined according to all points while the second formula
 
 ## Determining SensorCalibrationValue
 
-<img width="1264" alt="image4" src="https://github.com/user-attachments/assets/8a3f9416-2590-475d-a270-36262b8742c2" />
-
+<img width="786" height="430" alt="image4" src="https://github.com/user-attachments/assets/8a3f9416-2590-475d-a270-36262b8742c2" />
 
 ## V = I × R
 
