@@ -90,7 +90,7 @@ float SP3SAQ2::calculateppm(float sensorVal, int idx) {
     GasConstants g = get_constants(idx, 0.666);
     float calAir = inverseYaxb(g.a, 0.666, g.b);
     
-    if (idx == 0) calValue = 0.03167312;
+    if (idx == 0) calValue = 0.0533256;
     else if (idx == 4) calValue = 0.001;
     else calValue = fmap(calAir, 10, 10000, 0, 1);
 
@@ -111,3 +111,4 @@ float SP3SAQ2::exponential_interpolate(float x, float x_min, float x_max, float 
 float SP3SAQ2::airConcentration(float sensorVal) {
     return exponential_interpolate(sensorVal, 0, 1, 2, 5);
 }
+
