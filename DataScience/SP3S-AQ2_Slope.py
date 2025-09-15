@@ -17,7 +17,7 @@ MaxAirPpm = 5
 SensorRLCalRL = 1
 
 gas_params = [
-    {'name': 'Methane', 'ppmvals': (10, 10000), 'ppm': (1.1034, -0.0377), 'calvalue': 0.03167312},
+    {'name': 'Methane', 'ppmvals': (10, 10000), 'ppm': (1.1034, -0.0377), 'calvalue': 0.0533256},
     {'name': 'IsoButane', 'ppmvals': (10, 10000), 'ppm': (1.583, -0.214)},
     {'name': 'CO', 'ppmvals': (10, 10000), 'ppm': (1.9582, -0.3468)},
     {'name': 'Ethanol', 'ppmvals': (10, 10000), 'ppm': (2.2885, -0.4504)},
@@ -218,3 +218,4 @@ fig.update_layout(
 )
 
 fig.write_html(f"{SensorName}_Slope_Estimation.html")
+
