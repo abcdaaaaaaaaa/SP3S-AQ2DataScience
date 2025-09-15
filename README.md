@@ -31,6 +31,17 @@ The first formula is determined according to all points while the second formula
 
 <b> In data graphs, the x-axis is given as ppm and the y-axis is given as ratio.
 
+## Determination of coefficients a and b
+
+| Methane | a | b |
+|---------|---------|---------|
+| ratio > 0.952 | 1.1086 | -0.0448 |
+| 0.94 < ratio <= 0.952 | 0.9867 | -0.0105
+| 0.906 < ratio <= 0.94 | 1.097 | -0.0335
+| 0.878 < ratio <= 0.906 | 1.0513 | -0.0261
+| 0.842 < ratio <= 0.878 | 1.1424 | -0.0381
+| ratio <= 0.842 | 2.2563 | -0.1231 |
+
 ## V = I × R
 
 <img width="1264" alt="image4" src="https://github.com/user-attachments/assets/7e621d77-aa7a-4c09-bd1d-c195973cae65" />
