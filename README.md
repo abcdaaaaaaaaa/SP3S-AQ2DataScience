@@ -99,13 +99,17 @@ The first formula is determined according to all points while the second formula
 </tr>
 </table>
 
+## Determining SensorCalibrationValue
+
+<img width="1264" alt="image4" src="https://github.com/user-attachments/assets/d4f401be-ecc6-44a9-9646-51878005430e" />
+
 ## V = I × R
 
-<img width="1264" alt="image4" src="https://github.com/user-attachments/assets/7e621d77-aa7a-4c09-bd1d-c195973cae65" />
+<img width="1264" alt="image5" src="https://github.com/user-attachments/assets/7e621d77-aa7a-4c09-bd1d-c195973cae65" />
 
 -------------------------
 
-<img width="685" alt="image5" src="https://github.com/user-attachments/assets/5ca02e2e-6fbe-461d-804a-22941038062a" />
+<img width="685" alt="image6" src="https://github.com/user-attachments/assets/5ca02e2e-6fbe-461d-804a-22941038062a" />
 
 ## Check out all our DataScience libraries under the SpaceData series!
 
