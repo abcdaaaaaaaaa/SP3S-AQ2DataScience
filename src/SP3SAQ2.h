@@ -3,6 +3,11 @@
 
 #include <Arduino.h>
 
+struct GasConstants {
+    float a;
+    float b;
+};
+
 class SP3SAQ2 {
 public:
     SP3SAQ2(int bitadc, byte pin);
@@ -18,6 +23,7 @@ private:
     float fmap(float x, float in_min, float in_max, float out_min, float out_max);
     float inverseYaxb(float a, float y, float b);
     float limit(float value, float minVal, float maxVal);
+    GasConstants get_constants(int idx, float ratio);
 };
 
 #endif
