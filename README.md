@@ -33,6 +33,10 @@ The first formula is determined according to all points while the second formula
 
 ## Determination of coefficients a and b
 
+<table>
+<tr>
+<td>
+
 | Methane                | a      | b       |
 | ---------------------- | ------ | ------- |
 | ratio > 0.952          | 1.1086 | -0.0448 |
@@ -42,6 +46,8 @@ The first formula is determined according to all points while the second formula
 | 0.842 < ratio <= 0.878 | 1.1424 | -0.0381 |
 | ratio <= 0.842         | 2.2563 | -0.1231 |
 
+</td>
+<td>
 
 | IsoButane              | a      | b       |
 | ---------------------- | ------ | ------- |
@@ -52,6 +58,9 @@ The first formula is determined according to all points while the second formula
 | 0.231 < ratio <= 0.351 | 4.8725 | -0.3808 |
 | ratio <= 0.231         | 4.0796 | -0.3586 |
 
+</td>
+<td>
+
 | CO                     | a      | b       |
 | ---------------------- | ------ | ------- |
 | ratio > 0.658          | 1.4117 | -0.2244 |
@@ -60,6 +69,11 @@ The first formula is determined according to all points while the second formula
 | 0.148 < ratio <= 0.274 | 5.0696 | -0.5116 |
 | 0.084 < ratio <= 0.148 | 5.2111 | -0.5156 |
 | ratio <= 0.084         | 3.0264 | -0.4477 |
+
+</td>
+</tr>
+<tr>
+<td>
 
 | Ethanol                | a      | b       |
 | ---------------------- | ------ | ------- |
@@ -70,6 +84,9 @@ The first formula is determined according to all points while the second formula
 | 0.042 < ratio <= 0.067 | 1.2629 | -0.4251 |
 | ratio <= 0.042         | 1.0192 | -0.3983 |
 
+</td>
+<td>
+
 | Hydrogen               | a      | b       |
 | ---------------------- | ------ | ------- |
 | ratio > 0.444          | 1.5579 | -0.3691 |
@@ -78,6 +95,10 @@ The first formula is determined according to all points while the second formula
 | 0.07 < ratio <= 0.139  | 3.5841 | -0.5698 |
 | 0.05 < ratio <= 0.07   | 0.5806 | -0.3063 |
 | ratio <= 0.05          | 0.2205 | -0.1853 |
+
+</td>
+</tr>
+</table>
 
 ## V = I × R
 
