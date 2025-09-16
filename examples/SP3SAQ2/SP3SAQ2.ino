@@ -23,16 +23,15 @@ void loop() {
   	Air = sensorVal > 0 ? sensor.airConcentration(sensorVal) : 0;
 
     Serial.print("Air: ");
-    Serial.println(Air);
+    Serial.println(Air, 4); // Writes decimal part and the first four digits of the decimal part.
     Serial.println();
-        
+	
     Methane = sensor.calculateppm(sensorVal, 0);
     IsoButane = sensor.calculateppm(sensorVal, 1);
     CO = sensor.calculateppm(sensorVal, 2);
     Ethanol = sensor.calculateppm(sensorVal, 3);
     Hydrogen = sensor.calculateppm(sensorVal, 4);
       
-    Serial.println();
     Serial.print("Methane: ");
     Serial.println(Methane);
     Serial.print("IsoButane: ");
@@ -47,4 +46,5 @@ void loop() {
     Serial.println("----------");
     delay(5000); // You can customize the waiting time according to the sensor you use.
 }
+
 
