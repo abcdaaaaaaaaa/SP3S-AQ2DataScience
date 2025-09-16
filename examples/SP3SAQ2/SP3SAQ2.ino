@@ -1,7 +1,7 @@
 // (1) The library also supports data science applications such as gradient ppm's Slope Estimation from Python!:
 // (1) https://github.com/abcdaaaaaaaaa/SP3S-AQ2DataScience/blob/main/DataScience/
 
-#include "SP3SAQ2.h"
+#include <SP3SAQ2.h>
 
 #define ADC_BIT_RESU (12) // for ESP32
 #define pin          (35) // D35 (ADC1)
@@ -47,3 +47,4 @@ void loop() {
     Serial.println("----------");
     delay(5000); // You can customize the waiting time according to the sensor you use.
 }
+
