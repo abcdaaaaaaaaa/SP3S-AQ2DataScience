@@ -111,6 +111,10 @@ The first formula is determined according to all points while the second formula
 
 <img width="543" height="63" alt="image6" src="https://github.com/user-attachments/assets/4c7eb93d-3937-49c9-8365-1525d3d22fd4" />
 
+## Final ppm calculation
+
+<img width="825" alt="image7" src="https://github.com/user-attachments/assets/7ab79171-ae4a-4bee-b012-90755a209cbe" />
+
 ## Check out all our DataScience libraries under the SpaceData series!
 
 "The first and only Arduino library series where Gas Sensors and Geiger Counter combine with Data Science"
