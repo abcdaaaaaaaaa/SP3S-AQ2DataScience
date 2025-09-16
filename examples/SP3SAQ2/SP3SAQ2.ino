@@ -1,5 +1,5 @@
 // (1) The library also supports data science applications such as gradient ppm's Slope Estimation from Python!:
-// (1) https://github.com/abcdaaaaaaaaa/SP3S-AQ2DataScience/blob/main/DataScience/
+// (1) https://github.com/abcdaaaaaaaaa/SP3S-AQ2DataScience/tree/main/DataScience
 
 #include <SP3SAQ2.h>
 
