@@ -71,10 +71,7 @@ def vals(minval, maxval, count):
     return np.linspace(minval, maxval, count)
 
 def limit(value, maxlim):
-    return np.minimum(np.maximum(value, 0), maxlim)
-
-def sensorlimit(value):
-    return np.maximum(np.minimum(value, maxair), minair)
+    return np.clip(value, 0, maxlim)
 
 def get_constants(name, ratio):
     a = np.full_like(ratio, np.nan, dtype=float)
@@ -218,4 +215,5 @@ fig.update_layout(
 )
 
 fig.write_html(f"{SensorName}_Slope_Estimation.html")
+
 
