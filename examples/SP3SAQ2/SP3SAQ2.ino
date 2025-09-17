@@ -13,8 +13,8 @@ SP3SAQ2 sensor(ADC_BIT_RESU, pin);
 void setup() {
     Serial.begin(115200); // for ESP32
     sensor.begin(); 
-	  // WARNING: To get accurate results, please use the resistance 10kΩ (RL) value! 
-	  // otherwise the results will not reflect the truth
+	// WARNING: To get accurate results, please use the resistance 10kΩ (RL) value! 
+	// Otherwise the results will not reflect the truth.
 }
 
 void loop() {
