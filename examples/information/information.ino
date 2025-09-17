@@ -5,4 +5,6 @@
   To generate regression curves of SP3S-AQ2 gases: https://github.com/abcdaaaaaaaaa/SP3S-AQ2DataScience/blob/main/DataScience/SP3S-AQ2-Curves.py
 
 ---------- Library Examples Files ----------
-  To process your SP3S-AQ2 into the microcontroller: SP3SAQ2.ino
+---------- Library Examples Files ----------
+  To process your SP3S-AQ2-01 into the microcontroller: SP3SAQ2.ino
+  To have general information about all the files in the library: information.ino
