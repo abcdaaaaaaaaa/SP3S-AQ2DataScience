@@ -13,7 +13,7 @@ SP3SAQ2 sensor(ADC_BIT_RESU, pin);
 void setup() {
     Serial.begin(115200); // for ESP32
     sensor.begin(); 
-	// WARNING: To get accurate results, please use the resistance 10kΩ (RL) value! 
+	// WARNING: To get accurate results, please use a 10kΩ (RL) resistor, 5.0V VCC, and don't forget to preheat the sensor for more than 48 hours during the first use!
 	// Otherwise the results will not reflect the truth.
 }
 
@@ -46,3 +46,4 @@ void loop() {
     Serial.println("----------");
     delay(5000); // You can customize the waiting time according to the sensor you use.
 }
+
