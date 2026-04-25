@@ -1,6 +1,6 @@
-# SP3S-AQ2DataScience v5.5.4
+# SP3S-AQ2DataScience v5.5.6
 
-## SP3S-AQ2DataScience What can be create?
+## What can be created?
 "The first and only Arduino library where SP3S-AQ2 Gas Sensor combine with Data Science"
 
 ## 1) Advanced Data Science System for Regression Calculations
