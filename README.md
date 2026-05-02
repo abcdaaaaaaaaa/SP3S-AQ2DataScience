@@ -1,4 +1,4 @@
-# SP3S-AQ2DataScience v5.5.6
+# SP3S-AQ2DataScience v5.5.7
 
 ## What can be created?
 "The first and only Arduino library where SP3S-AQ2 Gas Sensor combine with Data Science"
@@ -129,4 +129,4 @@ The first formula is determined according to all points while the second formula
 
 ## For detailed explanation, You can also check out the github <a href="https://github.com/abcdaaaaaaaaa/SP3S-AQ2DataScience/wiki">Wiki Page!
 
-## You can access the library's article <a href="https://www.spacepedia.info/SP3S-AQ2DataScience">Here!
+## You can access the library's article <a href="https://project.uzay.info/SP3S-AQ2DataScience">Here!
