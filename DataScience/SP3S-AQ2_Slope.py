@@ -4,7 +4,6 @@ from plotly.subplots import make_subplots
 from scipy.optimize import curve_fit
 import plotly.colors as pc
 import pandas as pd
-import MQInfo
 import EstimateData
 
 SensorName = 'SP3S-AQ2'
